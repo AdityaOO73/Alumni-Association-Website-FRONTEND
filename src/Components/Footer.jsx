@@ -12,7 +12,7 @@ const Footer = () => {
           Stay Connected with Your Alumni Community
         </p>
       </div>
-    </section>    
+    </section>
   );
 };
 
